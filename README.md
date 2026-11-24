@@ -1,16 +1,18 @@
-## Hi there 👋
+# ¡Hola! Soy Esteban Cardozo 👋
 
-<!--
-**rcardozocastro-netizen/rcardozocastro-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Productor audiovisual, fotógrafo y creador de contenido en Bogotá, Colombia 🇨🇴
 
-Here are some ideas to get you started:
+## 🎬 Lo que hago
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Producción audiovisual y fotografía (cine, TV y contenido digital)
+- Creación de contenido y gestión de canales de YouTube
+- Automatizaciones con n8n e inteligencia artificial
+- Emprendimiento digital y e-commerce
+
+## 🛠️ Herramientas
+
+n8n · Inteligencia artificial · Edición de video · Shopify · Meta Ads
+
+## 📫 Contacto
+
+Instagram: [@estebancardozoc](https://instagram.com/estebancardozoc)
